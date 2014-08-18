@@ -21,17 +21,17 @@ In August 2014 I graduated at [Makers Academy](http://www.makersacademy.com). Th
 
 Some examples of my coding can be found in these GitHub repos and Heroku links:
 
-* [Workmap](link) - an instant-hiring, map-based job hunting service. This has been my final project for weeks 11 and 12 of the course.
+* [Workmap](https://github.com/federicomaffei/WorkMap) - an instant-hiring, map-based job hunting service. This has been my final project for weeks 11 and 12 of the course.
 
-* [Pizzagram](link) - a web version of the popular social media, to which I gave a little foody and Italian twist! This has been developed during weeks 9 and 10 of the course.
+* [Pizzagram](https://github.com/federicomaffei/instagram) - a web version of the popular social media, to which I gave a little foody and Italian twist! This has been developed during weeks 9 and 10 of the course.
 
-* [Yelp](link) - a resturant rating and listing service, developed during week 8 of the course.
+* [Yelp](https://github.com/federicomaffei/yelp) - a resturant rating and listing service, developed during week 8 of the course.
 
-* [RockPaperScissorsLizardSpock](link) - a Javascript version of the popular game, developed during week 7 of the course.
+* [RockPaperScissorsLizardSpock](https://github.com/federicomaffei/rockpaperscissors) - a Javascript version of the popular game, developed during week 7 of the course.
 
-* [Student Directory](link) - a command line application to enter and list students, developed as the first project as a Maker.
+* [Student Directory](https://github.com/federicomaffei/My-Student-Directory) - a command line application to enter and list students, developed as the first project as a Maker.
 
-* [Boris Bikes](link) - a command line application to manage a bike rental service similar to London Boris Bikes.
+* [Boris Bikes](https://github.com/federicomaffei/boris_bikes) - a command line application to manage a bike rental service similar to London Boris Bikes.
 
 * [My blog](http://federicomaffei.github.io) - a little chronicle of my Makers experience, built by me using the [Jekyll](http://jekyllrb.com) static site generator.
 
@@ -49,11 +49,11 @@ Previous professional experience includes roles as:
 
 Education:
 
-* [Politecnico di Milano](link)
+* [Politecnico di Milano](http://www.polimi.it/)
 Master’s degree in Sound Engineering
 Thesis title: “Automatic Drum Trascription based on joint Prior Subspace and Feature Based Analysis”
 
-* [Università di Bologna](link) - Facoltà di Ingegneria Informatica
+* [Università di Bologna](http://www.unibo.it/) - Facoltà di Ingegneria Informatica
 Bachelor’s degree, Computer Science
 
 ====================
