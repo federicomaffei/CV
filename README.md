@@ -25,15 +25,15 @@ Some examples of my coding can be found in these GitHub repos and Heroku links:
 
 * [Pizzagram](https://github.com/federicomaffei/instagram) - a web version of the popular social media, to which I gave a little foody and Italian twist! This has been developed during weeks 9 and 10 of the course.
 
-* [Yelp](https://github.com/federicomaffei/yelp) - a resturant rating and listing service, developed during week 8 of the course.
+* [Yelp](https://github.com/federicomaffei/yelp) - a restaurant rating and listing service, developed during week 8 of the course.
 
 * [RockPaperScissorsLizardSpock](https://github.com/federicomaffei/rockpaperscissors) - a Javascript version of the popular game, developed during week 7 of the course.
 
 * [BattleShips](https://github.com/federicomaffei/battleships) - a command line application to play the super-famous game Battle Ships.
 
-* [Student Directory](https://github.com/federicomaffei/My-Student-Directory) - a command line application to enter and list students, developed as the first project as a Maker.
-
 * [Boris Bikes](https://github.com/federicomaffei/boris_bikes) - a command line application to manage a bike rental service similar to London Boris Bikes.
+
+* [Student Directory](https://github.com/federicomaffei/My-Student-Directory) - a command line application to enter and list students, developed as the first project as a Maker.
 
 * [My blog](http://federicomaffei.github.io) - a little chronicle of my Makers experience, built by me using the [Jekyll](http://jekyllrb.com) static site generator.
 
