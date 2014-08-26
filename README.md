@@ -29,7 +29,9 @@ Some examples of my coding can be found in these GitHub repos and Heroku links:
 
 * [RockPaperScissorsLizardSpock - Week 7](https://github.com/federicomaffei/rockpaperscissors) - a Javascript version of the popular game, developed during week 7 of the course.
 
-* [BattleShips - Week 4](https://github.com/federicomaffei/battleships) - a command line application to play the super-famous game Battle Ships.
+* [BattleShips - Week 4](https://github.com/federicomaffei/battleships) - a command line application to play the famous guessing game Battle Ships.
+
+* [Airport - Week 3](https://github.com/federicomaffei/airport) - a command line application to manage the plane traffic over an airport.
 
 * [Boris Bikes - Week 3](https://github.com/federicomaffei/boris_bikes) - a command line application to manage a bike rental service similar to London Boris Bikes.
 
