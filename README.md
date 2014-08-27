@@ -18,10 +18,6 @@ My name is **Federico Maffei**, web developer. Born in Ancona, Italy, on 06/07/1
 
 In August 2014 I graduated at [Makers Academy](http://www.makersacademy.com). The languages and technologies I explored during the course are:
 
-* Front-End:
-
-  * HTML, CSS, Javascript.
-
 * Back-End:
 
   * Ruby (pure, and on Rails framework).
@@ -29,6 +25,10 @@ In August 2014 I graduated at [Makers Academy](http://www.makersacademy.com). Th
 * TDD:
 
   * Rspec, Capybara, Jasmine.
+
+* Front-End:
+
+  * HTML, CSS, Javascript.
 
 Some examples of my coding can be found in these GitHub repos and Heroku links:
 
