@@ -3,7 +3,18 @@ GitHub CV - Federico Maffei
 
 My name is **Federico Maffei**, web developer. Born in Ancona, Italy, on 06/07/1983.
 
+###Contacts:
+- email: federico.maffei@gmail.com
+- phone: +447721163161
+- github: [https://github.com/federicomaffei](https://github.com/federicomaffei)
+- linkedin: [https://www.linkedin.com/in/federicomaffei](https://www.linkedin.com/in/federicomaffei)
+- twitter: [@foltoc](https://twitter.com/foltoc)
+
 ![ME](https://dl.dropboxusercontent.com/u/9315601/img/folto.png)
+
+====================
+
+###About me:
 
 In August 2014 I graduated at [Makers Academy](http://www.makersacademy.com). The languages and technologies I explored during the course are:
 
@@ -41,7 +52,9 @@ Some examples of my coding can be found in these GitHub repos and Heroku links:
 
 ====================
 
-Previous professional experience includes roles as:
+###Previous professional experience:
+
+Includes roles as:
 
 * Digital Media Manager for [Carosello Records](http://www.carosellorecords.com), one of the most established independent music labels in Italy - from 2009.
   * Audio/Video Postproduction, Digital Delivery to Music Stores, Audio/Video Encoding Audio/Video Streaming through all main Streaming Services,Youtube CMS and Artist Official Channels Management, Restoring and Re-Mastering musical heritage for digital exploitation, Audio digitalization and restoration from analog media.
@@ -51,7 +64,7 @@ Previous professional experience includes roles as:
 
 ====================
 
-Education:
+###Education:
 
 * [Politecnico di Milano](http://www.polimi.it/)
 Master’s degree in Sound Engineering
@@ -62,6 +75,6 @@ Bachelor’s degree, Computer Science
 
 ====================
 
-Other tech-related skills:
+###Other tech-related skills:
 
 * Matlab IDE, Adobe Creative Suite, Logic Pro, Ableton Live, MaxMSP, Csound.
