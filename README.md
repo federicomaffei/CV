@@ -32,15 +32,17 @@ In August 2014 I graduated at [Makers Academy](http://www.makersacademy.com). Th
 
 Some examples of my coding can be found in these GitHub repos and Heroku links:
 
-* [Workmap - Week 11/12](https://github.com/federicomaffei/WorkMap) - an instant-hiring, map-based job hunting service. This has been my final project for weeks 11 and 12 of the course.
+* [Workmap - Week 11/12](https://github.com/federicomaffei/WorkMap) - an instant-hiring, map-based job hunting service. This has been my final project for the course.
 
-* [Pizzagram - Week 9/10](https://github.com/federicomaffei/instagram) - a web version of the popular social media, to which I gave a little foody and Italian twist! This has been developed during weeks 9 and 10 of the course.
+* [Pizzagram - Week 9/10](https://github.com/federicomaffei/instagram) - a web version of the popular social media, to which I gave a little foody and Italian twist!
 
-* [Yelp - Week 8](https://github.com/federicomaffei/yelp) - a restaurant rating and listing service, developed during week 8 of the course.
+* [Yelp - Week 8](https://github.com/federicomaffei/yelp) - a restaurant rating and listing service.
 
-* [RockPaperScissorsLizardSpock - Week 7](https://github.com/federicomaffei/rockpaperscissors) - a Javascript version of the popular game, developed during week 7 of the course.
+* [RockPaperScissorsLizardSpock - Week 7](https://github.com/federicomaffei/rockpaperscissors) - a Javascript version of the popular game!
 
-* [BattleShips - Week 4](https://github.com/federicomaffei/battleships) - a command line application to play the famous guessing game Battle Ships.
+* [Bookmark Manager - Week 6](https://github.com/federicomaffei/bookmark_manager) - a bookmark manager service, created with Ruby and Sinatra and deployed to Heroku.
+
+* [BattleShips - Week 4, 5](https://github.com/federicomaffei/battleships) - a command line application to play the famous guessing game Battle Ships.
 
 * [Airport - Week 3](https://github.com/federicomaffei/airport) - a command line application to manage the plane traffic over an airport.
 
