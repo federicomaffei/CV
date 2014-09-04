@@ -42,7 +42,11 @@ Some examples of my coding can be found in these GitHub repos and Heroku links:
 
 * [Bookmark Manager - Week 6](https://github.com/federicomaffei/bookmark_manager) - a bookmark manager service, created with Ruby and Sinatra and deployed to Heroku.
 
+* [Chitter - Week 5](https://github.com/federicomaffei/chitter) - a message wall, developed as a part of a Friday challenge.
+
 * [BattleShips - Week 4, 5](https://github.com/federicomaffei/battleships) - a command line application to play the famous guessing game Battle Ships.
+
+* [Takeaway - Week 4](https://github.com/federicomaffei/takeaway) - an object-oriented takeaway service, with SMS notification when placing an order.
 
 * [Airport - Week 3](https://github.com/federicomaffei/airport) - a command line application to manage the plane traffic over an airport.
 
