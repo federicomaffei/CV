@@ -24,15 +24,15 @@ In August 2014 I graduated at [Makers Academy](http://www.makersacademy.com). Th
 
 * TDD:
 
-  * Rspec, Capybara, Jasmine.
+  * Rspec, Capybara, Jasmine, PhantomJS.
 
 * Front-End:
 
-  * HTML, CSS, Javascript.
+  * HTML, CSS, Javascript, JQuery.
 
 Some examples of my coding can be found in these GitHub repos and Heroku links:
 
-* [Workmap - Week 11/12](https://github.com/federicomaffei/WorkMap) - an instant-hiring, map-based job hunting service. This has been my final project for the course.
+* [Workmap - Week 11/12](https://github.com/federicomaffei/WorkMap) - an instant-hiring, map-based job hunting service. This has been my final project for the course, on which I worked with a great team of 5 people.
 
 * [Pizzagram - Week 9/10](https://github.com/federicomaffei/instagram) - a web version of the popular social media, to which I gave a little foody and Italian twist!
 
