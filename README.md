@@ -40,7 +40,7 @@ Some examples of my coding can be found in these GitHub repos and Heroku links (
 
 * [RockPaperScissorsLizardSpock - Week 7](https://github.com/federicomaffei/rockpaperscissors) - a Javascript version of the popular game!
 
-* [**Bookmark Manager - Week 6**](https://github.com/federicomaffei/bookmark_manager) - a bookmark manager service, created with Ruby and Sinatra and deployed to Heroku.
+* [Bookmark Manager - Week 6](https://github.com/federicomaffei/bookmark_manager) - a bookmark manager service, created with Ruby and Sinatra and deployed to Heroku.
 
 * [Chitter - Week 5](https://github.com/federicomaffei/chitter) - a message wall, developed as a part of a Friday challenge.
 
