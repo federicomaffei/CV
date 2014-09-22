@@ -28,19 +28,19 @@ In August 2014 I graduated at [Makers Academy](http://www.makersacademy.com). Th
 
 * Front-End:
 
-  * HTML, CSS, Javascript, JQuery.
+  * HTML, CSS, Javascript, JQuery	.
 
-Some examples of my coding can be found in these GitHub repos and Heroku links:
+Some examples of my coding can be found in these GitHub repos and Heroku links (the most interesting **in bold**):
 
-* [Workmap - Week 11/12](https://github.com/federicomaffei/WorkMap) - an instant-hiring, map-based job hunting service. This has been my final project for the course, on which I worked with a great team of 5 people.
+* [**Workmap - Week 11/12**](https://github.com/federicomaffei/WorkMap) - an instant-hiring, map-based job hunting service. This has been my final project for the course, on which I worked with a great team of 5 people.
 
-* [Pizzagram - Week 9/10](https://github.com/federicomaffei/instagram) - a web version of the popular social media, to which I gave a little foody and Italian twist!
+* [**Pizzagram - Week 9/10**](https://github.com/federicomaffei/instagram) - a web version of the popular social media, to which I gave a little foody and Italian twist!
 
-* [Yelp - Week 8](https://github.com/federicomaffei/yelp) - a restaurant rating and listing service.
+* [**Yelp - Week 8**](https://github.com/federicomaffei/yelp) - a restaurant rating and listing service.
 
 * [RockPaperScissorsLizardSpock - Week 7](https://github.com/federicomaffei/rockpaperscissors) - a Javascript version of the popular game!
 
-* [Bookmark Manager - Week 6](https://github.com/federicomaffei/bookmark_manager) - a bookmark manager service, created with Ruby and Sinatra and deployed to Heroku.
+* [**Bookmark Manager - Week 6**](https://github.com/federicomaffei/bookmark_manager) - a bookmark manager service, created with Ruby and Sinatra and deployed to Heroku.
 
 * [Chitter - Week 5](https://github.com/federicomaffei/chitter) - a message wall, developed as a part of a Friday challenge.
 
