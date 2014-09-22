@@ -44,7 +44,7 @@ Some examples of my coding can be found in these GitHub repos and Heroku links (
 
 * [Chitter - Week 5](https://github.com/federicomaffei/chitter) - a message wall, developed as a part of a Friday challenge.
 
-* [BattleShips - Week 4, 5](https://github.com/federicomaffei/battleships) - a command line application to play the famous guessing game Battle Ships.
+* [BattleShips - Week 4/5](https://github.com/federicomaffei/battleships) - a command line application to play the famous guessing game Battle Ships.
 
 * [Takeaway - Week 4](https://github.com/federicomaffei/takeaway) - an object-oriented takeaway service, with SMS notification when placing an order.
 
