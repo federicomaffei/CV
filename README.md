@@ -28,7 +28,7 @@ In August 2014 I graduated at [Makers Academy](http://www.makersacademy.com). Th
 
 * Front-End:
 
-  * HTML, CSS, Javascript, JQuery	.
+  * HTML, CSS, JavaScript.
 
 Some examples of my coding can be found in these GitHub repos and Heroku links (the most interesting **in bold**):
 
