@@ -77,7 +77,7 @@ Master’s degree in Sound Engineering
 Thesis title: “Automatic Drum Trascription based on joint Prior Subspace and Feature Based Analysis”
 
 * [Università di Bologna](http://www.unibo.it/) - Facoltà di Ingegneria Informatica
-Bachelor’s degree, Computer Science
+Bachelor’s degree, Engineering
 
 ====================
 
