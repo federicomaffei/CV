@@ -14,7 +14,15 @@ My name is **Federico Maffei**, web developer. Born in Ancona, Italy, on 06/07/1
 
 ====================
 
-###About me:
+###Jobs as a Web Developer:
+
+* Junior Engineer for [OpenTable](http://www.opentable.co.uk/), starting in November 2014. OpenTable (previously toptable) is the global leader of online restaurant bookings. Our engineers are responsible for building the next-generation OpenTable experience, which millions of diners will rely on every day. Responsibilities:
+	* Work with the Product Team to implement features for the OpenTable partner platform.
+	* Work as part of our Engineering Team to build the software that power these experiences.
+	* Participate in planning sessions, retrospectives, code reviews and pull requests.
+	* Constantly strive to raise OpenTable technical excellence.
+
+###Education as a Web Developer:
 
 In August 2014 I graduated at [Makers Academy](http://www.makersacademy.com). The languages and technologies I explored during the course are:
 
